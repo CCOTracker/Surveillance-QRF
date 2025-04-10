@@ -1,0 +1,127 @@
+2025-04-10T10:18:13.700860+00:00 - 🛰️ MEA229 est en surveillance dans la zone tampon
+2025-04-10T10:48:24.594906+00:00 - 🛰️ MEA252 est en surveillance dans la zone tampon
+2025-04-10T11:00:29.120471+00:00 - 🛰️ AFR564 est en surveillance dans la zone tampon
+2025-04-10T11:12:34.270903+00:00 - 🛰️ AFR966 est en surveillance dans la zone tampon
+2025-04-10T11:30:41.338993+00:00 - 🛰️ DLH686 est en surveillance dans la zone tampon
+2025-04-10T11:46:47.415337+00:00 - ✅ ELY327 est entré dans la zone
+2025-04-10T11:46:47.415337+00:00 - 🛰️ ELY327 est en surveillance dans la zone tampon
+2025-04-10T11:52:49.390037+00:00 - ✅ AFR966 est entré dans la zone
+2025-04-10T11:54:50.107061+00:00 - 🛬 AFR966 a atterri en Israël ou Liban
+2025-04-10T12:04:54.080151+00:00 - 🚪 ELY327 a quitté la zone
+2025-04-10T12:06:54.901211+00:00 - 🛰️ ELY224 est en surveillance dans la zone tampon
+2025-04-10T12:06:54.901211+00:00 - 🛫 ELY327 a décollé depuis Israël / Liban
+2025-04-10T12:16:58.918026+00:00 - ✅ DLH686 est entré dans la zone
+2025-04-10T12:18:59.891025+00:00 - 🚪 DLH686 a quitté la zone
+2025-04-10T12:18:59.891025+00:00 - 🚨 DEMI-TOUR détecté pour DLH686
+2025-04-10T12:28:09.784837+00:00 - 🛰️ DLH680 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.784837+00:00 - ✅ DLH686 est entré dans la zone
+2025-04-10T12:28:09.784837+00:00 - 🛰️ DLH686 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.784837+00:00 - 🛰️ ELY224 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.784837+00:00 - 🛰️ ELY327 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.958878+00:00 - 🛰️ DLH680 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.958878+00:00 - ✅ DLH686 est entré dans la zone
+2025-04-10T12:28:09.958878+00:00 - 🛰️ DLH686 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.958878+00:00 - 🛰️ ELY224 est en surveillance dans la zone tampon
+2025-04-10T12:28:09.958878+00:00 - 🛰️ ELY327 est en surveillance dans la zone tampon
+2025-04-10T12:38:13.800104+00:00 - ✅ ELY224 est entré dans la zone
+2025-04-10T12:38:14.463987+00:00 - ✅ ELY224 est entré dans la zone
+2025-04-10T12:40:15.247535+00:00 - 🛬 ELY224 a atterri en Israël ou Liban
+2025-04-10T12:42:15.340515+00:00 - 🛬 ELY224 a atterri en Israël ou Liban
+2025-04-10T12:54:19.941817+00:00 - 🛰️ ELY320 est en surveillance dans la zone tampon
+2025-04-10T12:54:20.641082+00:00 - 🛰️ ELY320 est en surveillance dans la zone tampon
+2025-04-10T13:02:23.541834+00:00 - ✅ DLH680 est entré dans la zone
+2025-04-10T13:06:24.869284+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:08:05.012547+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:08:05.012547+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:08:05.012547+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:08:05.012547+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:08:05.012547+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:08:09.463405+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:08:09.463405+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:08:09.463405+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:08:09.463405+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:08:09.463405+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:08:47.032825+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:08:47.032825+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:08:47.032825+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:08:47.032825+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:08:47.032825+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:09:09.899106+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:09:09.899106+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:09:09.899106+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:09:09.899106+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:09:09.899106+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:09:14.085866+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:09:14.085866+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:09:14.085866+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:09:14.085866+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:09:14.085866+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:11:10.825309+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:11:14.890695+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:13:11.574036+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:13:15.506317+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:15:12.489088+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:15:16.455838+00:00 - ✅ ELY011 est apparu au sol dans la FIR
+2025-04-10T13:17:13.350791+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:17:17.197430+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:23:19.562301+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:24:27.571824+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T13:24:27.571824+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:24:31.378322+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T13:24:31.378322+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:26:32.200418+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:28:02.583158+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:28:02.583158+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:28:02.583158+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:28:02.583158+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:28:02.583158+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:28:02.583158+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:28:02.583158+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T13:28:02.583158+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:30:57.214745+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:30:57.214745+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T13:30:57.214745+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:32:57.902085+00:00 - ✅ ELY320 est entré dans la FIR
+2025-04-10T13:36:22.008667+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:36:22.008667+00:00 - ✅ DLH680 est entré dans la zone tampon
+2025-04-10T13:36:22.008667+00:00 - ✅ DLH680 est entré dans la FIR
+2025-04-10T13:36:22.008667+00:00 - 🛬 DLH680 a atterri en Israël ou Liban
+2025-04-10T13:36:22.008667+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:36:22.008667+00:00 - ✅ ELY320 est entré dans la FIR
+2025-04-10T13:36:22.008667+00:00 - ✅ MEA218 est entré dans la zone tampon
+2025-04-10T13:36:22.008667+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T13:36:22.008667+00:00 - ✅ AFR565 est entré dans la zone tampon
+2025-04-10T13:38:22.913313+00:00 - 🚪 AFR565 a quitté la zone tampon
+2025-04-10T13:42:24.651425+00:00 - 🛬 ELY320 a atterri en Israël ou Liban
+2025-04-10T13:49:22.451352+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T13:49:22.451352+00:00 - ✅ ELY320 est entré dans la zone tampon
+2025-04-10T13:49:22.451352+00:00 - ✅ ELY320 est entré dans la FIR
+2025-04-10T13:49:22.451352+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T14:00:58.068488+00:00 - ✅ SWR252B est entré dans la zone tampon
+2025-04-10T14:00:58.068488+00:00 - ✅ DLH687 est apparu au sol dans la FIR
+2025-04-10T14:00:58.068488+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T14:02:58.867241+00:00 - ✅ SWR252B est entré dans la FIR
+2025-04-10T14:09:01.420843+00:00 - 🛬 SWR252B a atterri en Israël ou Liban
+2025-04-10T14:14:46.012412+00:00 - ✅ SWR252B est apparu au sol dans la FIR
+2025-04-10T14:14:46.012412+00:00 - ✅ ELY011 est entré dans la zone tampon
+2025-04-10T14:16:46.982083+00:00 - ✅ DLH687 est entré dans la zone tampon
+2025-04-10T14:16:46.982083+00:00 - ✅ DLH687 est entré dans la FIR
+2025-04-10T14:16:46.982083+00:00 - 🛬 DLH687 a atterri en Israël ou Liban
+2025-04-10T14:16:46.982083+00:00 - ✅ ELY325 est apparu au sol dans la FIR
+2025-04-10T14:18:47.695082+00:00 - 🚪 ELY011 a quitté la zone tampon
+2025-04-10T14:18:47.695082+00:00 - ✅ AFR963 est apparu au sol dans la FIR
